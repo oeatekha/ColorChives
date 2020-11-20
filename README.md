@@ -1,6 +1,5 @@
 # ColorChive
 
-<img src="https://github.com/oeatekha/ColorChives/blob/main/Output/RGB%20PLOT%20AMST.jpg" width="800"/>
 <img src="https://github.com/oeatekha/ColorChives/blob/main/Test%20Inputs/AMSTERDAM.png" width="800"/>
 
 
