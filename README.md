@@ -1,9 +1,17 @@
 # ColorChive
+<div>
+<img src="https://github.com/oeatekha/ColorChives/blob/main/Test%20Inputs/AMSTERDAM.png" width="430"/>
+<img src="https://github.com/oeatekha/ColorChives/blob/main/Output/RGB%20PLOT%20AMST.jpg" width="490"/>
+<div>
 
-<img src="https://github.com/oeatekha/ColorChives/blob/main/Test%20Inputs/AMSTERDAM.png" width="800"/>
+ColorChive is a MATLAB and web tool that allows you to explore different approaches to extract color palettes/gradients from images.  
 
-Palette Maker is a MATLAB and web tool that allows you to explore different approaches to extract color palettes/gradients from images. 
-Javascript Version by Nina Lutz: https://github.com/ninalutz/Colorchives
+Color quantization is a long studied issue in computer graphics. The idea of color quantization is utilizing decompression to represent an image in less pixels than its original format. Color quantization is also utilized to generate color palettes from images.
+
+The goal of Colorchives is to develop a prototyping tool for designers to generate color palettes, specifically towards event based photos for archival purposes. The tool will allow users to upload images and generate a variety of palettes given different parameters and color spaces. This makes for a more intuitive artistic representation of various images that current color quantization algorithms are not optimized for.
+Color spaces were made using RGB, Hue Saturation Value (HSV), and Hue Saturation Light (HSL). The project was made in MATLAB and can produce n number of KMean color clusters. 
+
+Javascript implementation by Nina Lutz: https://github.com/ninalutz/Colorchives
 
 # Development
 ## Setup
