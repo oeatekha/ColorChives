@@ -1,8 +1,8 @@
 # ColorChive
-<div>
-<img src="https://github.com/oeatekha/ColorChives/blob/main/Test%20Inputs/AMSTERDAM.png" width="800"/>
+
 <img src="https://github.com/oeatekha/ColorChives/blob/main/Output/RGB%20PLOT%20AMST.jpg" width="800"/>
-<div>
+<img src="https://github.com/oeatekha/ColorChives/blob/main/Test%20Inputs/AMSTERDAM.png" width="800"/>
+
 
 ColorChive is a MATLAB and web tool that allows you to explore different approaches to extract color palettes/gradients from images.  
 
