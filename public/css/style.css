@@ -1,0 +1,193 @@
+div {
+    font-family: 'Roboto', sans-serif;
+}
+
+#header {
+    height: 75px;
+    background: black;
+}
+
+#header img{
+    height: 65px;
+    margin: auto;
+    display:block;
+    padding-top: 11px;
+}
+
+#choose-image-instructions {
+    border-bottom: 1px solid lightgray;
+    display: block;
+    height: 75px;
+    width: 100%;
+    padding-bottom: 15px;
+}
+
+#extract-palette-instructions {
+    border-bottom: 1px solid lightgray;
+    display: block;
+    height: 75px;
+    width: 100%;
+    padding-bottom: 15px;
+    margin-bottom: 25px;
+}
+
+#extract-palette-instructions-title {
+    display: block;
+    font-size: 25px;
+}
+
+#extract-palette-instructions-description {
+    padding-top: 5px;
+    color: gray;
+    display: block;
+}
+
+#choose-image-instructions-text {
+    display: inline-block;
+    float: left;
+    font-size: 25px;
+    line-height: 75px;
+}
+
+#image-plot-details {
+    margin-bottom: 80px;
+}
+
+.choose-image-instructions-input {
+    display: inline-block;
+    float: left;
+    margin-top:29px;
+    margin-left:25px;
+}
+
+.wrapper {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#original-image-hidden {
+    display: none;
+}
+
+#source-image{
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    display: none;
+}
+
+.original-image {
+}
+
+#plot-content {
+    display:none;
+}
+
+.input-image-panel {
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.input-image-panel-left {
+    margin-left: 50px;
+    width: 500px;
+    height: 450px;
+    display: inline-block;
+    position: relative;
+}
+
+.input-image-panel-left img {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+    width: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.input-image-panel-right {
+}
+
+#input-image-plot {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 450px;
+    margin-top: 25px;
+}
+
+#histogram-output {
+    display: none;
+    padding-top: 25px;
+}
+
+#median-cut-output {
+    display: none;
+    padding-top: 25px;
+}
+
+#kmeans-output {
+    display: none;
+    padding-top: 25px;
+}
+
+#kmeansHSV-output {
+    display: none;
+    padding-top: 25px;
+}
+#histogram-plot {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 400px;
+    margin-top: 25px;
+}
+
+#median-cut-plot {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 400px;
+    margin-top: 25px;
+}
+
+#kmeans-plot {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 400px;
+    margin-top: 25px;
+}
+
+#kmeansHSV-plot {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 400px;
+    margin-top: 25px;
+}
+
+.colorPreview {
+    border: 1px solid lightgray;
+    width: 200px;
+    height: 30px;
+}
+
+.algorithm-output {
+    height: 800px;
+}
+
+.algorithm-description {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.plot-toggle-header:hover {
+    cursor: pointer;
+}
