@@ -34,6 +34,10 @@ Clean Up Source Code:
 Before running the program, simply add a local image to the file's path. The app will loads the image and create 3 plots in in three dimensional RGB space.
 
 ![](https://github.com/oeatekha/ColorChives/blob/main/Output/HSV%20PLOT%20AMST.jpg)
+HSV PLot of Image Below
+</div>
+<img src="https://github.com/oeatekha/ColorChives/blob/main/Test%20Inputs/AMSTERDAM.png" width="200"/>
+</div>
 
 ## Color Spaces
 Three color spaces are currently supported. HSL. HSV. and RGB,
@@ -50,7 +54,7 @@ KMEANS HSL N = 4 Cluster for output Danger.png
 
 Differences of the kmeans cluster for RGB vs HSL can be easily observed. 
 
-## 3D Plot of Color Space
+## Example 3D Plot of Color Space
 
 HSL Color Space and orignial image.
 <div>
