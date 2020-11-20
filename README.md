@@ -10,13 +10,13 @@ Javascript Version by Nina Lutz: https://github.com/ninalutz/Colorchives
 
 * Clone the repository
 
-* Install dependencies by running:
+* Install
 ```
-npm install
+install all files
 ```
 * For MATLAB run rgbToHsvPlot.m
 ```
-webpack
+Add image to path and run rgbToHsvPlot.m
 ```
 
 This will generate a single a RGB, HSV, HSL 3D Plot and a kmeans collection of N colors.
