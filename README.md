@@ -3,7 +3,7 @@
 <img src="https://github.com/oeatekha/ColorChives/blob/main/AMSTERDAM.png" width="800"/>
 
 Palette Maker is a MATLAB and web tool that allows you to explore different approaches to extract color palettes/gradients from images. 
-
+Javascript Version by Nina Lutz: https://github.com/ninalutz/Colorchives
 
 # Development
 ## Setup
